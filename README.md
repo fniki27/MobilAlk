@@ -1,1 +1,1 @@
-# Guess the Flag Quiz!
+# Guess the Flag Quiz Game!
